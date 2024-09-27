@@ -15,6 +15,9 @@
 
 
 #fffaraz/fakessh
-germannewsmaker/myspeed
+#查看本服务器流量IO
+#germannewsmaker/myspeed
+
+mysql:8.0.21
 
 
