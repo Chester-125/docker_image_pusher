@@ -18,6 +18,7 @@
 #查看本服务器流量IO
 #germannewsmaker/myspeed
 
-mysql:8.0.21
+#mysql:8.0.21
 
+linzeyi/hivision_idphotos:v1.2.9
 
