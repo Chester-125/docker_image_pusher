@@ -20,5 +20,6 @@
 
 #mysql:8.0.21
 
+#编辑图片的工具
 linzeyi/hivision_idphotos:v1.2.9
 
