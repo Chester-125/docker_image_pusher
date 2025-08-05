@@ -27,4 +27,7 @@
 #vllm/vllm-openai:v0.8.2
 
 #activemq
-islandora/activemq:4
+#islandora/activemq:4
+
+#elasticsearch
+docker.elastic.co/elasticsearch/elasticsearch:7.17.7
