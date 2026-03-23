@@ -33,4 +33,4 @@
 #docker.elastic.co/elasticsearch/elasticsearch:7.17.7
 
 #grafana
-docker.io/grafana/grafana:10.5.3
+grafana/grafana:10.5.2
