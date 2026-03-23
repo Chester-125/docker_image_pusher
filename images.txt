@@ -30,4 +30,7 @@
 #islandora/activemq:4
 
 #elasticsearch
-docker.elastic.co/elasticsearch/elasticsearch:7.17.7
+#docker.elastic.co/elasticsearch/elasticsearch:7.17.7
+
+#grafana
+docker.io/grafana/grafana:10.5.3
